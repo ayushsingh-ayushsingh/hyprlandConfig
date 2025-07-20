@@ -1,0 +1,12 @@
+2025/07/20-17:09:52.002 de97 Reusing MANIFEST /home/arch/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_orgfarm-add5c2ac6a-dev-ed.develop.lightning.force.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/20-17:09:52.002 de97 Recovering log #84
+2025/07/20-17:09:52.012 de97 Reusing old log /home/arch/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_orgfarm-add5c2ac6a-dev-ed.develop.lightning.force.com_0.indexeddb.leveldb/000084.log 
+2025/07/20-17:09:57.384 de99 Compacting 1@1 + 1@2 files
+2025/07/20-17:09:57.437 de99 Generated table #87@1: 761 keys, 1464953 bytes
+2025/07/20-17:09:57.437 de99 Compacted 1@1 + 1@2 files => 1464953 bytes
+2025/07/20-17:09:57.444 de99 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/20-17:09:57.444 de99 Delete type=2 #85
+2025/07/20-17:09:57.445 de99 Delete type=2 #83
+2025/07/20-17:10:00.838 de98 Level-0 table #89: started
+2025/07/20-17:10:00.877 de98 Level-0 table #89: 1659819 bytes OK
+2025/07/20-17:10:00.885 de98 Delete type=0 #84

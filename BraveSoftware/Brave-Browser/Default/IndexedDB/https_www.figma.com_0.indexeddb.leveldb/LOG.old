@@ -1,0 +1,24 @@
+2025/07/20-17:54:03.223 59f Reusing MANIFEST /home/arch/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.figma.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/20-17:54:03.223 59f Recovering log #7
+2025/07/20-17:54:03.223 59f Reusing old log /home/arch/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.figma.com_0.indexeddb.leveldb/000007.log 
+2025/07/20-17:54:04.870 5ae Level-0 table #11: started
+2025/07/20-17:54:04.878 5ae Level-0 table #11: 650 bytes OK
+2025/07/20-17:54:04.884 5ae Delete type=0 #7
+2025/07/20-17:54:04.887 59d Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 342 : 1
+2025/07/20-17:54:04.887 59d Compacting 1@0 + 1@1 files
+2025/07/20-17:54:04.892 59d Generated table #12@0: 64 keys, 1355 bytes
+2025/07/20-17:54:04.892 59d Compacted 1@0 + 1@1 files => 1355 bytes
+2025/07/20-17:54:04.898 59d compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/20-17:54:04.898 59d Delete type=2 #11
+2025/07/20-17:54:04.899 59d Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 342 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/07/20-18:00:33.711 5ac Level-0 table #14: started
+2025/07/20-18:00:33.719 5ac Level-0 table #14: 651 bytes OK
+2025/07/20-18:00:33.730 5ac Delete type=0 #10
+2025/07/20-18:00:33.730 5ac Delete type=2 #8
+2025/07/20-18:00:33.731 59f Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 361 : 1
+2025/07/20-18:00:33.731 59f Compacting 1@0 + 1@1 files
+2025/07/20-18:00:33.738 59f Generated table #15@0: 68 keys, 1411 bytes
+2025/07/20-18:00:33.738 59f Compacted 1@0 + 1@1 files => 1411 bytes
+2025/07/20-18:00:33.746 59f compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/20-18:00:33.747 59f Delete type=2 #14
+2025/07/20-18:00:33.747 59f Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 361 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

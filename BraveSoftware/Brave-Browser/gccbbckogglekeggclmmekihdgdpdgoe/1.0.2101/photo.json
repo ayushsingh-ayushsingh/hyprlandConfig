@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "campaigns": [
+    {
+      "campaignId": "54d8cd32-b6f6-41c4-846f-233c86885531",
+      "logo": {
+        "imageUrl": "017baec7-85e7-4815-93d0-dc8b76b56ded/610ee5e9-673f-4ad6-8a7b-299a9aaf5ce3.png",
+        "destinationUrl": "https://ether.fi/cash?utm_source=Brave%20Landing%20Page&utm_medium=CPM&utm_campaign=Cash%20Signups&utm_content=bravecreative1",
+        "alt": "EtherFi - Mint, Spend, Earn - Full service for the crypto-native - Learn More",
+        "companyName": "EtherFi"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "017baec7-85e7-4815-93d0-dc8b76b56ded/4a3b24f0-6477-426d-b0f0-d54e46d2765e.jpg",
+          "creativeInstanceId": "38605fc2-f152-4c5c-9852-c257dc06998b",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "c9ec6bd4-1f8e-415c-9463-94231327ab4f/e850a1d4-825f-486b-97d2-23d1fd6fcaba.jpg",
+          "creativeInstanceId": "04367a13-7a2a-42ad-a3ea-54885c7b63b5",
+          "focalPoint": {
+            "x": 1364,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "c9ec6bd4-1f8e-415c-9463-94231327ab4f/b95c6c1e-b3e2-4a9a-9255-ec86875764c3.png",
+            "destinationUrl": "https://ether.fi/cash?utm_source=Brave%20Landing%20Page&utm_medium=CPM&utm_campaign=Cash%20Signups&utm_content=bravecreative3",
+            "alt": "EtherFi - Cash Card Holders earn 5% cashback and up to 60% off travel - Learn More",
+            "companyName": "EtherFi"
+          }
+        },
+        {
+          "imageUrl": "f4a3cfe9-a8bc-46b9-8bc3-2836bdc4899a/9dd4ed41-1418-4562-8754-80119a1a8629.jpg",
+          "creativeInstanceId": "b6fa25c6-69ea-4a41-b2b6-b8bd38bfa810",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "f4a3cfe9-a8bc-46b9-8bc3-2836bdc4899a/98b9675f-1054-4e0a-a606-8d55ec09861c.png",
+            "destinationUrl": "https://ether.fi/cash?utm_source=Brave%20Landing%20Page&utm_medium=CPM&utm_campaign=Cash%20Signups&utm_content=bravecreative2",
+            "alt": "EtherFi - Keep your coins - spend with ether.fi cash - Learn More",
+            "companyName": "EtherFi"
+          }
+        }
+      ]
+    }
+  ],
+  "campaigns2": [
+    {
+      "campaignId": "54d8cd32-b6f6-41c4-846f-233c86885531",
+      "logo": {
+        "imageUrl": "017baec7-85e7-4815-93d0-dc8b76b56ded/610ee5e9-673f-4ad6-8a7b-299a9aaf5ce3.png",
+        "destinationUrl": "https://ether.fi/cash?utm_source=Brave%20Landing%20Page&utm_medium=CPM&utm_campaign=Cash%20Signups&utm_content=bravecreative1",
+        "alt": "EtherFi - Mint, Spend, Earn - Full service for the crypto-native - Learn More",
+        "companyName": "EtherFi"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "017baec7-85e7-4815-93d0-dc8b76b56ded/4a3b24f0-6477-426d-b0f0-d54e46d2765e.jpg",
+          "creativeInstanceId": "38605fc2-f152-4c5c-9852-c257dc06998b",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "c9ec6bd4-1f8e-415c-9463-94231327ab4f/e850a1d4-825f-486b-97d2-23d1fd6fcaba.jpg",
+          "creativeInstanceId": "04367a13-7a2a-42ad-a3ea-54885c7b63b5",
+          "focalPoint": {
+            "x": 1364,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "c9ec6bd4-1f8e-415c-9463-94231327ab4f/b95c6c1e-b3e2-4a9a-9255-ec86875764c3.png",
+            "destinationUrl": "https://ether.fi/cash?utm_source=Brave%20Landing%20Page&utm_medium=CPM&utm_campaign=Cash%20Signups&utm_content=bravecreative3",
+            "alt": "EtherFi - Cash Card Holders earn 5% cashback and up to 60% off travel - Learn More",
+            "companyName": "EtherFi"
+          }
+        },
+        {
+          "imageUrl": "f4a3cfe9-a8bc-46b9-8bc3-2836bdc4899a/9dd4ed41-1418-4562-8754-80119a1a8629.jpg",
+          "creativeInstanceId": "b6fa25c6-69ea-4a41-b2b6-b8bd38bfa810",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "f4a3cfe9-a8bc-46b9-8bc3-2836bdc4899a/98b9675f-1054-4e0a-a606-8d55ec09861c.png",
+            "destinationUrl": "https://ether.fi/cash?utm_source=Brave%20Landing%20Page&utm_medium=CPM&utm_campaign=Cash%20Signups&utm_content=bravecreative2",
+            "alt": "EtherFi - Keep your coins - spend with ether.fi cash - Learn More",
+            "companyName": "EtherFi"
+          }
+        }
+      ]
+    }
+  ]
+}

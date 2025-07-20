@@ -1,24 +1,12 @@
-2025/07/19-09:45:26.213 21ef Reusing MANIFEST /home/arch/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/07/19-09:45:26.213 21ef Recovering log #65
-2025/07/19-09:45:26.214 21ef Reusing old log /home/arch/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000065.log 
-2025/07/19-09:45:28.923 21fc Compacting 1@0 + 1@1 files
-2025/07/19-09:45:28.969 21fc Generated table #68@0: 1518 keys, 1832536 bytes
-2025/07/19-09:45:28.969 21fc Compacted 1@0 + 1@1 files => 1832536 bytes
-2025/07/19-09:45:28.974 21fc compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/07/19-09:45:28.975 21fc Delete type=2 #66
-2025/07/19-09:45:28.975 21fc Delete type=2 #64
-2025/07/19-09:45:30.118 21ee Compacting 1@1 + 1@2 files
-2025/07/19-09:45:30.140 21ee Generated table #69@1: 283 keys, 1135694 bytes
-2025/07/19-09:45:30.140 21ee Compacted 1@1 + 1@2 files => 1135694 bytes
-2025/07/19-09:45:30.146 21ee compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/07/19-09:45:30.147 21ee Delete type=2 #62
-2025/07/19-09:45:30.147 21ee Delete type=2 #68
-2025/07/19-09:45:40.656 21f0 Level-0 table #71: started
-2025/07/19-09:45:40.690 21f0 Level-0 table #71: 3181899 bytes OK
-2025/07/19-09:45:40.698 21f0 Delete type=0 #65
-2025/07/19-09:46:25.243 21ef Compacting 1@1 + 1@2 files
-2025/07/19-09:46:25.265 21ef Generated table #72@1: 257 keys, 973798 bytes
-2025/07/19-09:46:25.265 21ef Compacted 1@1 + 1@2 files => 973798 bytes
-2025/07/19-09:46:25.272 21ef compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/07/19-09:46:25.273 21ef Delete type=2 #69
-2025/07/19-09:46:25.274 21ef Delete type=2 #71
+2025/07/20-17:53:55.339 59d Reusing MANIFEST /home/arch/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/20-17:53:55.339 59d Recovering log #110
+2025/07/20-17:53:55.343 59d Reusing old log /home/arch/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000110.log 
+2025/07/20-17:54:01.614 59e Compacting 1@1 + 1@2 files
+2025/07/20-17:54:01.646 59e Generated table #113@1: 90 keys, 75615 bytes
+2025/07/20-17:54:01.646 59e Compacted 1@1 + 1@2 files => 75615 bytes
+2025/07/20-17:54:01.651 59e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/20-17:54:01.652 59e Delete type=2 #111
+2025/07/20-17:54:01.652 59e Delete type=2 #109
+2025/07/20-17:54:34.905 59d Level-0 table #115: started
+2025/07/20-17:54:34.953 59d Level-0 table #115: 3182512 bytes OK
+2025/07/20-17:54:34.960 59d Delete type=0 #110

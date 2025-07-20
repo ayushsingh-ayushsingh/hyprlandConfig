@@ -1,0 +1,33 @@
+2025/07/20-16:32:46.135 115c Reusing MANIFEST /home/arch/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_orgfarm-f4c57261d3-dev-ed.develop.lightning.force.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/20-16:32:46.135 115c Recovering log #4
+2025/07/20-16:32:46.135 115c Reusing old log /home/arch/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_orgfarm-f4c57261d3-dev-ed.develop.lightning.force.com_0.indexeddb.leveldb/000004.log 
+2025/07/20-16:33:08.172 115d Level-0 table #8: started
+2025/07/20-16:33:08.192 115d Level-0 table #8: 1599823 bytes OK
+2025/07/20-16:33:08.204 115d Delete type=0 #4
+2025/07/20-16:37:08.454 115e Compacting 1@1 + 1@2 files
+2025/07/20-16:37:08.488 115e Generated table #9@1: 397 keys, 1411760 bytes
+2025/07/20-16:37:08.488 115e Compacted 1@1 + 1@2 files => 1411760 bytes
+2025/07/20-16:37:08.495 115e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/20-16:37:08.495 115e Delete type=2 #8
+2025/07/20-16:37:08.495 115e Delete type=2 #5
+2025/07/20-16:38:37.900 115d Level-0 table #11: started
+2025/07/20-16:38:37.932 115d Level-0 table #11: 2141106 bytes OK
+2025/07/20-16:38:37.944 115d Delete type=0 #7
+2025/07/20-16:39:23.434 115e Compacting 1@1 + 1@2 files
+2025/07/20-16:39:23.480 115e Generated table #12@1: 570 keys, 1752352 bytes
+2025/07/20-16:39:23.480 115e Compacted 1@1 + 1@2 files => 1752352 bytes
+2025/07/20-16:39:23.487 115e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/20-16:39:23.487 115e Delete type=2 #11
+2025/07/20-16:39:23.487 115e Delete type=2 #9
+2025/07/20-16:40:26.814 115d Level-0 table #14: started
+2025/07/20-16:40:26.850 115d Level-0 table #14: 2351426 bytes OK
+2025/07/20-16:40:26.858 115d Delete type=0 #10
+2025/07/20-16:41:01.980 115c Compacting 1@1 + 1@2 files
+2025/07/20-16:41:02.040 115c Generated table #15@1: 672 keys, 1963579 bytes
+2025/07/20-16:41:02.041 115c Compacted 1@1 + 1@2 files => 1963579 bytes
+2025/07/20-16:41:02.048 115c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/20-16:41:02.049 115c Delete type=2 #14
+2025/07/20-16:41:02.049 115c Delete type=2 #12
+2025/07/20-16:42:11.130 115d Level-0 table #17: started
+2025/07/20-16:42:11.154 115d Level-0 table #17: 2961725 bytes OK
+2025/07/20-16:42:11.161 115d Delete type=0 #13
