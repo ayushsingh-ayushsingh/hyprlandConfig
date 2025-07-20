@@ -1,0 +1,2 @@
+2025-07-20 19:33:49.136 [info] Log level: Info
+2025-07-20 19:34:00.992 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: other side closed

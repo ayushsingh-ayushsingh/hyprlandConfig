@@ -1,0 +1,2 @@
+2025-07-20 19:33:49.541 [error] [File Watcher ('parcel')] Unexpected error: inotify_add_watch on '/home/arch/.config/BraveSoftware/Brave-Browser/BrowserMetrics' failed: No such file or directory (EUNKNOWN) (path: /home/arch/.config)
+2025-07-20 19:33:49.541 [error] [File Watcher (universal)] inotify_add_watch on '/home/arch/.config/BraveSoftware/Brave-Browser/BrowserMetrics' failed: No such file or directory

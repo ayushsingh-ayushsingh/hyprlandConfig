@@ -1,12 +1,12 @@
-2025/07/20-17:53:55.339 59d Reusing MANIFEST /home/arch/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/07/20-17:53:55.339 59d Recovering log #110
-2025/07/20-17:53:55.343 59d Reusing old log /home/arch/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000110.log 
-2025/07/20-17:54:01.614 59e Compacting 1@1 + 1@2 files
-2025/07/20-17:54:01.646 59e Generated table #113@1: 90 keys, 75615 bytes
-2025/07/20-17:54:01.646 59e Compacted 1@1 + 1@2 files => 75615 bytes
-2025/07/20-17:54:01.651 59e compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/07/20-17:54:01.652 59e Delete type=2 #111
-2025/07/20-17:54:01.652 59e Delete type=2 #109
-2025/07/20-17:54:34.905 59d Level-0 table #115: started
-2025/07/20-17:54:34.953 59d Level-0 table #115: 3182512 bytes OK
-2025/07/20-17:54:34.960 59d Delete type=0 #110
+2025/07/20-19:34:01.857 84c9 Reusing MANIFEST /home/arch/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/20-19:34:01.857 84c9 Recovering log #122
+2025/07/20-19:34:01.866 84c9 Reusing old log /home/arch/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000122.log 
+2025/07/20-19:34:06.777 84c7 Compacting 1@1 + 1@2 files
+2025/07/20-19:34:06.801 84c7 Generated table #125@1: 203 keys, 749525 bytes
+2025/07/20-19:34:06.801 84c7 Compacted 1@1 + 1@2 files => 749525 bytes
+2025/07/20-19:34:06.806 84c7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/20-19:34:06.807 84c7 Delete type=2 #123
+2025/07/20-19:34:06.807 84c7 Delete type=2 #120
+2025/07/20-19:34:27.778 84c8 Level-0 table #127: started
+2025/07/20-19:34:27.808 84c8 Level-0 table #127: 3168886 bytes OK
+2025/07/20-19:34:27.816 84c8 Delete type=0 #122

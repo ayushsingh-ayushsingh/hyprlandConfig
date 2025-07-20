@@ -1,18 +1,12 @@
-2025/07/20-18:19:03.332 22ac Reusing MANIFEST /home/arch/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/07/20-18:19:03.332 22ac Recovering log #114
-2025/07/20-18:19:03.337 22ac Reusing old log /home/arch/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000114.log 
-2025/07/20-18:19:08.074 22c7 Compacting 1@1 + 1@2 files
-2025/07/20-18:19:08.093 22c7 Generated table #117@1: 295 keys, 1272166 bytes
-2025/07/20-18:19:08.093 22c7 Compacted 1@1 + 1@2 files => 1272166 bytes
-2025/07/20-18:19:08.099 22c7 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/07/20-18:19:08.100 22c7 Delete type=2 #115
-2025/07/20-18:19:08.100 22c7 Delete type=2 #113
-2025/07/20-18:19:12.939 22ae Level-0 table #119: started
-2025/07/20-18:19:12.969 22ae Level-0 table #119: 3216416 bytes OK
-2025/07/20-18:19:12.978 22ae Delete type=0 #114
-2025/07/20-18:19:24.829 22ac Compacting 1@1 + 1@2 files
-2025/07/20-18:19:24.846 22ac Generated table #120@1: 188 keys, 601647 bytes
-2025/07/20-18:19:24.847 22ac Compacted 1@1 + 1@2 files => 601647 bytes
-2025/07/20-18:19:24.853 22ac compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/07/20-18:19:24.853 22ac Delete type=2 #119
-2025/07/20-18:19:24.853 22ac Delete type=2 #117
+2025/07/20-19:36:01.153 8d89 Reusing MANIFEST /home/arch/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/20-19:36:01.153 8d89 Recovering log #126
+2025/07/20-19:36:01.156 8d89 Reusing old log /home/arch/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000126.log 
+2025/07/20-19:36:05.872 8d78 Compacting 1@1 + 1@2 files
+2025/07/20-19:36:05.902 8d78 Generated table #129@1: 253 keys, 1082036 bytes
+2025/07/20-19:36:05.902 8d78 Compacted 1@1 + 1@2 files => 1082036 bytes
+2025/07/20-19:36:05.908 8d78 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/20-19:36:05.909 8d78 Delete type=2 #127
+2025/07/20-19:36:05.909 8d78 Delete type=2 #125
+2025/07/20-19:36:19.779 8d78 Level-0 table #131: started
+2025/07/20-19:36:19.803 8d78 Level-0 table #131: 3235034 bytes OK
+2025/07/20-19:36:19.810 8d78 Delete type=0 #126

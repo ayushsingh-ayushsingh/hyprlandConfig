@@ -9,7 +9,11 @@
                 "folderUri": "file:///home/arch/.config"
             }
         ],
-        "emptyWindows": []
+        "emptyWindows": [
+            {
+                "backupFolder": "1753020455770"
+            }
+        ]
     },
     "windowControlHeight": 35,
     "profileAssociations": {
@@ -26,7 +30,9 @@
             "file:///home/arch/weWinProject": "__default__profile__",
             "file:///home/arch/Documents/SimpleProjects/note-taking-app": "__default__profile__"
         },
-        "emptyWindows": {}
+        "emptyWindows": {
+            "1753020455770": "__default__profile__"
+        }
     },
     "theme": "vs-dark",
     "themeBackground": "#1e1e2e",
@@ -47,21 +53,52 @@
             "statusBarBorder": "rgba(0, 0, 0, 0)",
             "statusBarNoFolderBackground": "#11111b",
             "windowBorder": "rgba(0, 0, 0, 0)"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 0,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/arch/.config",
-            "backupPath": "/home/arch/.config/Code - OSS/Backups/d34b65e63a3e1ffa2d9b367bec9e5618",
+            "backupPath": "/home/arch/.config/Code - OSS/Backups/1753020455770",
             "uiState": {
                 "mode": 0,
                 "x": 0,
                 "y": 0,
-                "width": 800,
-                "height": 874
+                "width": 960,
+                "height": 527
             }
         },
-        "openedWindows": []
+        "openedWindows": [
+            {
+                "folder": "file:///home/arch/.config",
+                "backupPath": "/home/arch/.config/Code - OSS/Backups/d34b65e63a3e1ffa2d9b367bec9e5618",
+                "uiState": {
+                    "mode": 0,
+                    "x": 0,
+                    "y": 0,
+                    "width": 800,
+                    "height": 874
+                }
+            },
+            {
+                "backupPath": "/home/arch/.config/Code - OSS/Backups/1753020455770",
+                "uiState": {
+                    "mode": 0,
+                    "x": 0,
+                    "y": 0,
+                    "width": 960,
+                    "height": 527
+                }
+            }
+        ]
     },
     "windowSplashWorkspaceOverride": {
         "layoutInfo": {
@@ -97,6 +134,10 @@
                     "auxiliaryBarVisible": false
                 },
                 "29f523b118193c4a7253a6be432d504f": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "bb2a9779ff93daad339410085ddf195a": {
                     "sideBarVisible": true,
                     "auxiliaryBarVisible": false
                 }

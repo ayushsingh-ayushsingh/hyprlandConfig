@@ -1,17 +1,17 @@
-2025/07/20-18:28:59.648 4 Reusing MANIFEST /home/arch/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
-2025/07/20-18:28:59.654 4 Recovering log #201
-2025/07/20-18:28:59.654 4 Reusing old log /home/arch/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000201.log 
-2025/07/20-18:29:18.165 5 Level-0 table #205: started
-2025/07/20-18:29:18.193 5 Level-0 table #205: 416180 bytes OK
-2025/07/20-18:29:18.205 5 Delete type=0 #201
-2025/07/20-18:29:18.208 5 Compacting 4@0 + 2@1 files
-2025/07/20-18:29:18.250 5 Generated table #206@0: 716 keys, 2187784 bytes
-2025/07/20-18:29:18.257 5 Generated table #207@0: 36 keys, 3219 bytes
-2025/07/20-18:29:18.257 5 Compacted 4@0 + 2@1 files => 2191003 bytes
-2025/07/20-18:29:18.263 5 compacted to: files[ 0 2 1 0 0 0 0 ]
-2025/07/20-18:29:18.265 5 Delete type=2 #199
-2025/07/20-18:29:18.265 5 Delete type=2 #193
-2025/07/20-18:29:18.265 5 Delete type=2 #202
-2025/07/20-18:29:18.265 5 Delete type=2 #196
-2025/07/20-18:29:18.265 5 Delete type=2 #205
-2025/07/20-18:29:18.265 5 Delete type=2 #192
+2025/07/20-19:35:21.260 4 Reusing MANIFEST /home/arch/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2025/07/20-19:35:21.269 4 Recovering log #214
+2025/07/20-19:35:21.270 4 Reusing old log /home/arch/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000214.log 
+2025/07/20-19:36:21.294 4 Level-0 table #218: started
+2025/07/20-19:36:21.312 4 Level-0 table #218: 420996 bytes OK
+2025/07/20-19:36:21.324 4 Delete type=0 #214
+2025/07/20-19:36:21.327 4 Compacting 4@0 + 2@1 files
+2025/07/20-19:36:21.369 4 Generated table #219@0: 720 keys, 2187921 bytes
+2025/07/20-19:36:21.375 4 Generated table #220@0: 37 keys, 3353 bytes
+2025/07/20-19:36:21.375 4 Compacted 4@0 + 2@1 files => 2191274 bytes
+2025/07/20-19:36:21.382 4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/07/20-19:36:21.383 4 Delete type=2 #213
+2025/07/20-19:36:21.383 4 Delete type=2 #215
+2025/07/20-19:36:21.383 4 Delete type=2 #206
+2025/07/20-19:36:21.383 4 Delete type=2 #207
+2025/07/20-19:36:21.383 4 Delete type=2 #210
+2025/07/20-19:36:21.383 4 Delete type=2 #218

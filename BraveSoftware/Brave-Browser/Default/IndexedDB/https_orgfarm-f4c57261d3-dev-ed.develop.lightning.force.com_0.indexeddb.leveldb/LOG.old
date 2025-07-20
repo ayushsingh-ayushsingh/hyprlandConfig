@@ -1,7 +1,6 @@
-2025/07/20-16:30:37.757 115c Creating DB /home/arch/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_orgfarm-f4c57261d3-dev-ed.develop.lightning.force.com_0.indexeddb.leveldb since it was missing.
-2025/07/20-16:30:37.774 115c Reusing MANIFEST /home/arch/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_orgfarm-f4c57261d3-dev-ed.develop.lightning.force.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/07/20-16:30:51.846 116a Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
-2025/07/20-16:31:43.556 115d Level-0 table #5: started
-2025/07/20-16:31:43.570 115d Level-0 table #5: 891364 bytes OK
-2025/07/20-16:31:43.578 115d Delete type=0 #3
-2025/07/20-16:31:43.578 115d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/07/20-19:34:08.814 84c7 Reusing MANIFEST /home/arch/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_orgfarm-f4c57261d3-dev-ed.develop.lightning.force.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/20-19:34:08.814 84c7 Recovering log #16
+2025/07/20-19:34:08.819 84c7 Reusing old log /home/arch/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_orgfarm-f4c57261d3-dev-ed.develop.lightning.force.com_0.indexeddb.leveldb/000016.log 
+2025/07/20-19:34:18.366 8522 Level-0 table #22: started
+2025/07/20-19:34:18.395 8522 Level-0 table #22: 2055397 bytes OK
+2025/07/20-19:34:18.403 8522 Delete type=0 #16
