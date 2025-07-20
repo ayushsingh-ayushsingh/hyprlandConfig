@@ -1,0 +1,6 @@
+2025/07/20-20:21:51.351 8d76 Creating DB /home/arch/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb since it was missing.
+2025/07/20-20:21:51.369 8d76 Reusing MANIFEST /home/arch/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/20-20:24:24.582 8d77 Level-0 table #5: started
+2025/07/20-20:24:24.587 8d77 Level-0 table #5: 118377 bytes OK
+2025/07/20-20:24:24.592 8d77 Delete type=0 #3
+2025/07/20-20:24:24.593 8d77 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

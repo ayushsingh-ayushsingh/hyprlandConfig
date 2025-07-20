@@ -2,3 +2,9 @@
 2025-07-20 19:35:22.601 [info] update#ctor - updates are disabled as there is no update URL
 2025-07-20 19:37:42.203 [info] Extension host with pid 38617 exited with code: 0, signal: unknown.
 2025-07-20 19:37:42.216 [error] [UtilityProcess id: 2, type: fileWatcher, pid: 38616]: crashed with code 15 and reason 'killed'
+2025-07-20 19:39:39.572 [info] Extension host with pid 37108 exited with code: 0, signal: unknown.
+2025-07-20 19:53:03.402 [info] Extension host with pid 39565 exited with code: 0, signal: unknown.
+2025-07-20 19:53:54.408 [error] CodeWindow: detected unresponsive
+2025-07-20 19:53:54.634 [error] CodeWindow: recovered from unresponsive
+2025-07-20 19:54:09.215 [error] [UtilityProcess id: 3, type: fileWatcher, pid: 40947]: crashed with code 15 and reason 'killed'
+2025-07-20 19:54:09.234 [info] Extension host with pid 40946 exited with code: 0, signal: unknown.
