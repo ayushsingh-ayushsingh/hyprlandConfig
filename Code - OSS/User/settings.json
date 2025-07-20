@@ -1,0 +1,11 @@
+{
+    "explorer.confirmDelete": false,
+    "explorer.confirmPasteNative": false,
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 18,
+    "editor.lineHeight": 32,
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDragAndDrop": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Catppuccin Mocha"
+}

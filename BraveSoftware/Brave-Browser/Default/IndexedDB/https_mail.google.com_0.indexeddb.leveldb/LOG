@@ -1,0 +1,24 @@
+2025/07/19-14:51:11.973 5f9 Reusing MANIFEST /home/arch/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/19-14:51:11.974 5f9 Recovering log #70
+2025/07/19-14:51:12.009 5f9 Reusing old log /home/arch/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000070.log 
+2025/07/19-14:51:16.172 5fa Level-0 table #75: started
+2025/07/19-14:51:16.205 5fa Level-0 table #75: 3167823 bytes OK
+2025/07/19-14:51:16.215 5fa Delete type=0 #70
+2025/07/19-14:51:28.722 608 Compacting 1@1 + 1@2 files
+2025/07/19-14:51:28.746 608 Generated table #76@1: 140 keys, 340701 bytes
+2025/07/19-14:51:28.747 608 Compacted 1@1 + 1@2 files => 340701 bytes
+2025/07/19-14:51:28.758 608 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/19-14:51:28.759 608 Delete type=2 #72
+2025/07/19-14:51:28.759 608 Delete type=2 #75
+2025/07/19-14:52:43.155 5fa Level-0 table #78: started
+2025/07/19-14:52:43.214 5fa Level-0 table #78: 2575777 bytes OK
+2025/07/19-14:52:43.225 5fa Delete type=0 #74
+2025/07/19-14:52:43.227 5fa Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/07/19-14:52:43.227 5fa Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 40854 : 1
+2025/07/19-14:52:43.227 5fa Compacting 1@1 + 1@2 files
+2025/07/19-14:52:43.258 5fa Generated table #79@1: 117 keys, 302468 bytes
+2025/07/19-14:52:43.258 5fa Compacted 1@1 + 1@2 files => 302468 bytes
+2025/07/19-14:52:43.266 5fa compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/19-14:52:43.267 5fa Delete type=2 #76
+2025/07/19-14:52:43.268 5fa Delete type=2 #78
+2025/07/19-14:52:43.270 5fa Manual compaction at level-1 from '\x00\x01\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 40854 : 1 .. (end); will stop at (end)

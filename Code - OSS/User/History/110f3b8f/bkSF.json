@@ -1,0 +1,5 @@
+{
+    "explorer.confirmDelete": false,
+    "explorer.confirmPasteNative": false,
+    "editor.minimap.enabled": false
+}

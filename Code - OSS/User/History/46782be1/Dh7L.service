@@ -1,0 +1,9 @@
+[Unit]
+Description=Set Hyprsunset temperature at boot
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/set-hyprsunset.sh
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,9 @@
+2025-07-20 08:42:06.052 [info] Started local extension host with pid 1568.
+2025-07-20 08:42:06.158 [info] ComputeTargetPlatform: linux-x64
+2025-07-20 08:42:08.737 [info] [perf] Render performance baseline is 16ms
+2025-07-20 08:44:46.794 [error] SignatureVerificationInternal: Signature verification failed with 'UnknownError' error.
+    at $h.Bb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64839)
+    at async $h.Ab (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:63310)
+2025-07-20 08:44:46.833 [error] Signature verification failed with 'UnknownError' error.: SignatureVerificationInternal: Signature verification failed with 'UnknownError' error.
+    at $h.Bb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64839)
+    at async $h.Ab (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:63310)

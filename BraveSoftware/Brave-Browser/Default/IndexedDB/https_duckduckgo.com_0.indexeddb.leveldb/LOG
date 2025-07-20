@@ -1,0 +1,6 @@
+2025/07/18-22:22:16.546 64a Creating DB /home/arch/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_duckduckgo.com_0.indexeddb.leveldb since it was missing.
+2025/07/18-22:22:16.564 64a Reusing MANIFEST /home/arch/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_duckduckgo.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/18-22:34:14.224 64b Level-0 table #5: started
+2025/07/18-22:34:14.232 64b Level-0 table #5: 1074 bytes OK
+2025/07/18-22:34:14.241 64b Delete type=0 #3
+2025/07/18-22:34:14.242 64b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

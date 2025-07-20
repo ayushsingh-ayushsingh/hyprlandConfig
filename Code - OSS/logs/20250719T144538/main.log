@@ -1,0 +1,10 @@
+2025-07-19 14:45:38.821 [info] update#setState disabled
+2025-07-19 14:45:38.822 [info] update#ctor - updates are disabled as there is no update URL
+2025-07-19 14:45:46.507 [info] Extension host with pid 3748 exited with code: 0, signal: unknown.
+2025-07-19 14:45:51.558 [info] Extension host with pid 3866 exited with code: 0, signal: unknown.
+2025-07-19 16:11:47.687 [error] ptyHost terminated unexpectedly with code 15
+2025-07-19 16:11:47.692 [warning] [UtilityProcess type: ptyHost, pid: 3910]: unable to kill the process
+2025-07-19 16:11:47.712 [info] Extension host with pid 3944 exited with code: 15, signal: unknown.
+2025-07-19 16:11:47.712 [error] [UtilityProcess id: 3, type: extensionHost, pid: 3944]: crashed with code 15 and reason 'killed'
+2025-07-19 16:11:47.715 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-19 16:11:47.716 [error] [UtilityProcess id: 2, type: fileWatcher, pid: 3935]: crashed with code 15 and reason 'killed'

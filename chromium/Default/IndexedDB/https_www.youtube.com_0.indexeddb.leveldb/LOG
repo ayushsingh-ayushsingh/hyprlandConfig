@@ -1,0 +1,18 @@
+2025/07/18-18:28:14.261 75f3 Reusing MANIFEST /home/arch/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/18-18:28:14.261 75f3 Recovering log #3
+2025/07/18-18:28:14.265 75f3 Reusing old log /home/arch/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2025/07/18-18:33:37.711 75f2 Level-0 table #5: started
+2025/07/18-18:33:37.784 75f2 Level-0 table #5: 1238205 bytes OK
+2025/07/18-18:33:37.795 75f2 Delete type=0 #3
+2025/07/18-19:31:16.254 75f2 Level-0 table #7: started
+2025/07/18-19:31:16.284 75f2 Level-0 table #7: 976462 bytes OK
+2025/07/18-19:31:16.295 75f2 Delete type=0 #4
+2025/07/18-19:31:16.297 75f2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/07/18-19:31:16.298 75f2 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x02\x1f\x03\x00\xc0\x8f5\xdd\x81yB\x00\x03\x00\x00\x00\x00\x00\x005@' @ 6813 : 1
+2025/07/18-19:31:16.298 75f2 Compacting 1@1 + 1@2 files
+2025/07/18-19:31:16.323 75f2 Generated table #8@1: 298 keys, 88129 bytes
+2025/07/18-19:31:16.324 75f2 Compacted 1@1 + 1@2 files => 88129 bytes
+2025/07/18-19:31:16.332 75f2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/18-19:31:16.332 75f2 Delete type=2 #7
+2025/07/18-19:31:16.332 75f2 Delete type=2 #5
+2025/07/18-19:31:16.334 75f2 Manual compaction at level-1 from '\x00\x08\x02\x1f\x03\x00\xc0\x8f5\xdd\x81yB\x00\x03\x00\x00\x00\x00\x00\x005@' @ 6813 : 1 .. (end); will stop at (end)

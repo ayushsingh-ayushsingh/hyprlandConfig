@@ -1,0 +1,160 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "d86c038c865a2b76dbd526615ea476f322ad014392da7c346b979e99037f6cdb",
+    "telemetry.devDeviceId": "7ac23dea-7dbd-49ea-b40c-672793583a19",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/arch/Documents/SimpleProjects/note-taking-app"
+            },
+            {
+                "folderUri": "file:///home/arch/.config/hypr"
+            },
+            {
+                "folderUri": "file:///home/arch/.config"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1752981261262"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/arch/.config/hypr": "__default__profile__",
+            "file:///home/arch/.config/omarchy": "__default__profile__",
+            "file:///home/arch/.config": "__default__profile__",
+            "file:///home/arch/.config/wofi": "__default__profile__",
+            "file:///home/arch": "__default__profile__",
+            "file:///home/arch/Documents/odooRecord": "__default__profile__",
+            "file:///usr/bin": "__default__profile__",
+            "file:///etc/systemd/system": "__default__profile__",
+            "file:///home/arch/Documents/weWinProject": "__default__profile__",
+            "file:///home/arch/weWinProject": "__default__profile__",
+            "file:///home/arch/Documents/SimpleProjects/note-taking-app": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1752981261262": "__default__profile__"
+        }
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e2e",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cdd6f4",
+            "background": "#1e1e2e",
+            "editorBackground": "#1e1e2e",
+            "titleBarBackground": "#11111b",
+            "titleBarBorder": "rgba(0, 0, 0, 0)",
+            "activityBarBackground": "#11111b",
+            "activityBarBorder": "rgba(0, 0, 0, 0)",
+            "sideBarBackground": "#181825",
+            "sideBarBorder": "rgba(0, 0, 0, 0)",
+            "statusBarBackground": "#11111b",
+            "statusBarBorder": "rgba(0, 0, 0, 0)",
+            "statusBarNoFolderBackground": "#11111b",
+            "windowBorder": "rgba(0, 0, 0, 0)"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 268,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/arch/.config",
+            "backupPath": "/home/arch/.config/Code - OSS/Backups/d34b65e63a3e1ffa2d9b367bec9e5618",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 960,
+                "height": 1054
+            }
+        },
+        "openedWindows": [
+            {
+                "folder": "file:///home/arch/Documents/SimpleProjects/note-taking-app",
+                "backupPath": "/home/arch/.config/Code - OSS/Backups/d17d98f671314549f7376df2a5ae95f4",
+                "uiState": {
+                    "mode": 0,
+                    "x": 0,
+                    "y": 0,
+                    "width": 1920,
+                    "height": 1080,
+                    "zoomLevel": 1
+                }
+            },
+            {
+                "folder": "file:///home/arch/.config",
+                "backupPath": "/home/arch/.config/Code - OSS/Backups/d34b65e63a3e1ffa2d9b367bec9e5618",
+                "uiState": {
+                    "mode": 0,
+                    "x": 0,
+                    "y": 0,
+                    "width": 960,
+                    "height": 1054
+                }
+            }
+        ]
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 268,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "f94d196f151dc1ddef7cb4dc6e31d18a": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "4e6e1144bac97b76000a5b748af412c3": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "9c1bb749a5ab08c714459816875bcb8f": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "7909d48ca03ae4cbeeeddb6b914b57ec": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "5df9bb2b02ce26d3eba8e50babf295da": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "85ee68883d0dbbee0da2d89fd2b6ebd9": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "d9ae9ed5e01e7936600b17a027b12f35": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "bb2a9779ff93daad339410085ddf195a": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "5131df26ff64064dffac3ae144254f7c": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "29f523b118193c4a7253a6be432d504f": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

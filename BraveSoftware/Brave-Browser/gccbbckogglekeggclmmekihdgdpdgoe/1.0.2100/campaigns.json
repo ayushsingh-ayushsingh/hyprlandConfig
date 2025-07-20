@@ -1,0 +1,329 @@
+{
+  "schemaVersion": 2,
+  "campaigns": [
+    {
+      "version": 1,
+      "advertiserId": "846dfc87-cea8-46f2-98b1-d9e42ef147b6",
+      "campaignId": "d7bae13f-ea4f-4e78-a9b2-8b81f99d783a",
+      "startAt": "2025-07-15T04:00:00.000Z",
+      "endAt": "2025-08-16T03:59:00.000Z",
+      "dailyCap": 20,
+      "priority": 1,
+      "ptr": 1,
+      "metrics": "p3a",
+      "geoTargets": [
+        "CA",
+        "DE",
+        "FR",
+        "GB",
+        "US"
+      ],
+      "creativeSets": [
+        {
+          "creativeSetId": "8087863c-9041-4d8c-b838-fadd0d2290b7",
+          "perDay": 20,
+          "perMonth": 0,
+          "perWeek": 0,
+          "totalMax": 20,
+          "value": "0",
+          "creatives": [
+            {
+              "creativeInstanceId": "774b9047-f272-45ba-a8c5-da5c3573a590",
+              "targetUrl": "chrome://settings/search/defaultSearch",
+              "alt": "Switch to Brave Search. More Private. Better Answers. No Bias.",
+              "companyName": "Brave",
+              "wallpaper": {
+                "type": "richMedia",
+                "relativeUrl": "0732516e-fe33-4cb8-9b0e-6ebc140cec82/index.html"
+              },
+              "conditionMatchers": [
+                {
+                  "prefPath": "p3a.logs_constellation_prep|Brave.Search.SwitchEngine|value",
+                  "condition": "0"
+                },
+                {
+                  "prefPath": "p3a.logs_constellation_prep_express|Brave.Search.DefaultEngine.4|value",
+                  "condition": "[R≠]:8"
+                },
+                {
+                  "prefPath": "[virtual]:browser|version",
+                  "condition": "^\\d+\\.\\d+\\.(?:7[7-9]|[89]\\d|\\d{3,})\\.\\d+$"
+                },
+                {
+                  "prefPath": "brave.brave_ads.p3a.ntp_event_count_constellation|774b9047-f272-45ba-a8c5-da5c3573a590|views",
+                  "condition": "[R≤]:5"
+                },
+                {
+                  "prefPath": "brave.brave_ads.p3a.ntp_event_count_constellation|774b9047-f272-45ba-a8c5-da5c3573a590|clicks",
+                  "condition": "[R≤]:2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": 1,
+      "advertiserId": "224393b3-cf63-444e-be57-a1c26d73635d",
+      "campaignId": "8308c6ec-0e4b-49cb-af4e-eea4413936c6",
+      "startAt": "2025-07-19T04:00:00.000Z",
+      "endAt": "2025-07-20T03:59:59.999Z",
+      "dailyCap": 20,
+      "priority": 1,
+      "ptr": 1,
+      "metrics": "p3a",
+      "geoTargets": [
+        "AD",
+        "AE",
+        "AF",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AU",
+        "AW",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BM",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BZ",
+        "CA",
+        "CD",
+        "CG",
+        "CH",
+        "CI",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CV",
+        "CW",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FO",
+        "FR",
+        "GA",
+        "GB",
+        "GD",
+        "GE",
+        "GF",
+        "GG",
+        "GH",
+        "GI",
+        "GM",
+        "GN",
+        "GP",
+        "GR",
+        "GT",
+        "GU",
+        "GY",
+        "HK",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IM",
+        "IN",
+        "IQ",
+        "IS",
+        "IT",
+        "JE",
+        "JM",
+        "JO",
+        "KE",
+        "KG",
+        "KH",
+        "KR",
+        "KW",
+        "KY",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "ME",
+        "MG",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MQ",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NC",
+        "NE",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PF",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PR",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RE",
+        "RO",
+        "RS",
+        "RW",
+        "SA",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SL",
+        "SN",
+        "SO",
+        "SR",
+        "SV",
+        "SZ",
+        "TG",
+        "TH",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TW",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VC",
+        "VI",
+        "VN",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "creativeSets": [
+        {
+          "creativeSetId": "62e53b95-6324-42d5-af6f-e141fce8ec8e",
+          "perDay": 20,
+          "perMonth": 0,
+          "perWeek": 0,
+          "totalMax": 20,
+          "value": "0.01",
+          "creatives": [
+            {
+              "creativeInstanceId": "472af62a-20e1-4db6-916b-ee6e0c7b5048",
+              "targetUrl": "https://www.youtube.com/watch?app=desktop&v=_DZgdAUGXug",
+              "alt": "Cardano - The Shawn Ryan Show. - Blockchain. AI. Privacy. Humanity. Join the dialogue. - Watch Now",
+              "companyName": "Cardano",
+              "wallpaper": {
+                "type": "image",
+                "relativeUrl": "3807caa7-15e9-4ffd-8a24-a0f4194a5f8d/49be4701-3a15-4246-b162-e93aa3b5491e.jpg",
+                "button": {
+                  "image": {
+                    "relativeUrl": "3807caa7-15e9-4ffd-8a24-a0f4194a5f8d/3440ac38-51f1-43f9-b321-802885c10406.png"
+                  }
+                },
+                "focalPoint": {
+                  "x": 1280,
+                  "y": 720
+                }
+              }
+            },
+            {
+              "creativeInstanceId": "da969e84-b9aa-415c-8ab1-770f16b69cd1",
+              "targetUrl": "https://www.youtube.com/watch?app=desktop&v=_DZgdAUGXug",
+              "alt": "Cardano - The Shawn Ryan Show. - Blockchain. AI. Privacy. Humanity. Join the dialogue. - Watch Now",
+              "companyName": "Cardano",
+              "wallpaper": {
+                "type": "image",
+                "relativeUrl": "65658917-4b25-4efe-a5e7-e16098f66d67/04b4495c-601a-4e94-8cdf-163032acb4d1.jpg",
+                "button": {
+                  "image": {
+                    "relativeUrl": "65658917-4b25-4efe-a5e7-e16098f66d67/3440ac38-51f1-43f9-b321-802885c10406.png"
+                  }
+                },
+                "focalPoint": {
+                  "x": 1144,
+                  "y": 720
+                }
+              }
+            },
+            {
+              "creativeInstanceId": "830a2076-fd34-4a63-91d0-22333ca1d657",
+              "targetUrl": "https://www.youtube.com/watch?app=desktop&v=_DZgdAUGXug",
+              "alt": "Cardano - The Shawn Ryan Show. - Blockchain. AI. Privacy. Humanity. Join the dialogue. - Watch Now",
+              "companyName": "Cardano",
+              "wallpaper": {
+                "type": "image",
+                "relativeUrl": "e8674e06-6180-4650-b59d-14920a9c11fd/13f0622b-b9ee-421e-b43c-f6ce5bde58f4.jpg",
+                "button": {
+                  "image": {
+                    "relativeUrl": "e8674e06-6180-4650-b59d-14920a9c11fd/3440ac38-51f1-43f9-b321-802885c10406.png"
+                  }
+                },
+                "focalPoint": {
+                  "x": 1280,
+                  "y": 720
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Notaker</title>
+</head>
+
+<body>
+  <div id="root"></div>
+  <script type="module" src="/src/main.tsx"></script>
+  <script>
+    function setViewport() {
+      const viewport = document.getElementById('viewport');
+      if (window.innerWidth <= 1000) { // You can adjust the width as needed
+        viewport.setAttribute('content', 'width=device-width, initial-scale=1.0');
+      } else {
+        viewport.setAttribute('content', 'width=device-width, initial-scale=1.5');
+      }
+    }
+    window.addEventListener('resize', setViewport);
+    window.addEventListener('load', setViewport);
+  </script>
+</body>
+
+</html>
